@@ -1,4 +1,4 @@
-*👋#Hello! Welcome to my GitHub*
+#[*👋Hello! Welcome to my GitHub*]
 
 My name is Rohan. I'm a number geek who likes storytelling using data. I'm dedicated to bridging the gap between data science and strategic decision-making.
 
