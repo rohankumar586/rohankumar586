@@ -1,4 +1,6 @@
-I'm a number geek who likes storytelling using data. I'm dedicated to bridging the gap between data science and strategic decision-making.
+#*👋Hello! Welcome to my GitHub*
+
+My name is Rohan. I'm a number geek who likes storytelling using data. I'm dedicated to bridging the gap between data science and strategic decision-making.
 
 I'm studying [Master of Management Analytics at McGill University](https://www.mcgill.ca/desautels/programs/mma). My journey has equipped me with advanced skills in statistical analysis, machine learning, and business intelligence that I have been able to apply to real word datasets, with results in my GitHub. I have previously applied these skills in sales and marketing team at multinational company, driving sales growth and cheaper raw material procurement. 
 
