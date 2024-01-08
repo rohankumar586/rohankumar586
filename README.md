@@ -14,7 +14,7 @@ Technologies I have been working with:
 - Microsoft Office
 - SAP
 
-# Lets Connect
+## Lets Connect
 
 Connect with me on LinkedIn: [Rohan Kumar](https://www.linkedin.com/in/rohan-kumar586/)
 
