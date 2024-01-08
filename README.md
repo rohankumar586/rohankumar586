@@ -15,7 +15,9 @@ Technologies I have been working with:
 - SAP
 
 # Lets Connect
+
 Connect with me on LinkedIn: [Rohan Kumar](https://www.linkedin.com/in/rohan-kumar586/)
+
 You can email me at: rohan.kumar@mail.mcgill.ca
 
 Thank you for visiting my profile!
