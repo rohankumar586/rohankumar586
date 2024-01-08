@@ -14,13 +14,9 @@ Technologies I have been working with:
 - Microsoft Office
 - SAP
 
-# You can connect with me at
-
-## LinkedIn
+# Lets Connect
 Connect with me on LinkedIn: [Rohan Kumar](https://www.linkedin.com/in/rohan-kumar586/)
-
-## Email
-For any queries or collaborations, you can email me at: rohan.kumar@mail.mcgill.ca
+You can email me at: rohan.kumar@mail.mcgill.ca
 
 Thank you for visiting my profile!
 
