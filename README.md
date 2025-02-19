@@ -2,7 +2,7 @@
 
 I'm Rohan. Numbers fascinate me, and I love telling stories that they hide. I'm all about connecting the dots between data science and making smart business decisions.
 
-Right now, I'm deep into my [Master of Management Analytics](https://www.mcgill.ca/desautels/programs/mma) program at McGill University. It's been an amazing ride, sharpening my skills in everything from statistical analysis to machine learning. And guess what? I've been putting these skills to the test on real-world data, with some cool projects you can check out on my GitHub.
+Right now, I am done with [Master of Management Analytics](https://www.mcgill.ca/desautels/programs/mma) program at McGill University. It was an amazing ride, sharpening my skills in everything from statistical analysis to machine learning. And guess what? I've been putting these skills to the test on real-world data, with some cool projects you can check out on my GitHub. Now, I am looking to put these skills to test with more complex and real-world cases. 
 
 Before diving into my masters, I helped the sales and marketing team at Midas Safety. Over there, I got to play with numbers in a way that actually boosted our sales and helped us cut down on costs for raw materials. Pretty neat, right?
 
