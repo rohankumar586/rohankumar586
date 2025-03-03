@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=rohankumar586&style=for-the-badge)
 # *👋Hello! Welcome to my GitHub*
 
 I'm Rohan. Numbers fascinate me, and I love telling stories that they hide. I'm all about connecting the dots between data science and making smart business decisions.
